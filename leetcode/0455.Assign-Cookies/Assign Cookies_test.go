@@ -10,7 +10,7 @@ type params struct {
 	s []int
 }
 
-func TestSolution(t *testing.T) {
+func TestFindContentChildren(t *testing.T) {
 
 	paramsArr := []params{
 		{
